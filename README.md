@@ -9,7 +9,7 @@ Based on the Docker Compose [Run docker-compose in a container](https://github.c
 ## Installation
 
 ```bash
-sudo curl -L --fail https://github.com/bshaw/dotnet-docker/blob/v1.0.1/run.sh -o /usr/local/bin/dotnet
+sudo curl -L --fail https://raw.githubusercontent.com/bshaw/dotnet-docker/v1.0.1/run.sh -o /usr/local/bin/dotnet
 sudo chmod +x /usr/local/bin/dotnet
 ```
 
