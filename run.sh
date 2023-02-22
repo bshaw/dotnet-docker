@@ -27,7 +27,7 @@
 
 set -e
 
-VERSION="3.1"
+VERSION="7.0"
 IMAGE="mcr.microsoft.com/dotnet/core/sdk:$VERSION"
 
 # Setup options for connecting to docker host
